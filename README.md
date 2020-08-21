@@ -1,5 +1,5 @@
 # practica_bash
-  ![Screenshot](tallerSO.png)
+  ![Screenshot](taller_SO.PNG)
 
 	El archivo notas2.sh permite recibir los siguientes argumentos:
 		-h    muestra esta pantalla de ayuda
